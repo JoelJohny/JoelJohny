@@ -1,59 +1,57 @@
-# Joel Johny
+<div align="center">
+  
+# Hi there, I'm Joel Johny 👋
 
-Full Stack Developer building secure, high-utility enterprise products with Angular, .NET, and practical AI integrations.
+**Full Stack Developer | Angular • .NET • AI Integrations**
 
-![Role](https://img.shields.io/badge/Role-Full%20Stack%20Developer-0A66C2)
-![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-1F8B4C)
-![Focus](https://img.shields.io/badge/Focus-Angular%20%7C%20.NET%20%7C%20AI-111827)
-![Location](https://img.shields.io/badge/Location-Kerala%2C%20India-7C3AED)
+[![Location](https://img.shields.io/badge/Location-Kerala%2C%20India-7C3AED?style=flat-square&logo=google-maps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/joel-johny-325884193)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joeljohny59@gmail.com)
 
-## Connect
-- GitHub: https://github.com/JoelJohny
-- LinkedIn: https://linkedin.com/in/joel-johny-325884193
-- Email: joeljohny59@gmail.com
+I'm a Full Stack Developer specializing in building secure, high-utility enterprise products. I take strong ownership of the development lifecycle from feature design to deployment, with a particular focus on regulated and security-sensitive workflows.
 
-## Recruiter View and Technical View
+</div>
 
-| Recruiter Snapshot | Technical Snapshot |
-|---|---|
-| 3+ years in full stack enterprise delivery across ERP, logistics, and analytics products. <br> Strong ownership from feature design to deployment. <br> Experience in regulated and security-sensitive workflows. <br> Current role: Full Stack Developer at Brightaira. <br> Freelance Angular + AI module delivery for UK client teams. | Core stack: Angular v10-v18, TypeScript, RxJS, ASP.NET Core, .NET 4.8, EF Core, SQL Server, MySQL, Node.js. <br> Security and compliance: OAuth2/OpenID SSO, JWT, RBAC, ZATCA Phase 2 integration. <br> Platform work: Azure App Services, IIS, Docker, CI/CD. <br> AI implementation: OpenAI GPT APIs for recruitment workflow automation. |
+---
 
-## Pinned Project Cards
+### 🚀 What I'm Up To
 
-| Project | Value Delivered | Primary Stack | Link |
-|---|---|---|---|
-| DisasterAid | Real-time crisis coordination platform for low-latency aid communication and tracking. | Angular, TypeScript, Node.js, Socket.io | https://github.com/JoelJohny/DisasterAid |
-| Track | Ongoing TypeScript-based product repository with recent active updates and incremental feature iteration. | TypeScript | https://github.com/JoelJohny/Track |
-| CiviLink | Web application project focused on practical JavaScript delivery patterns and interface workflows. | JavaScript | https://github.com/JoelJohny/CiviLink |
-| Blacksmith Workers Portal | Full-stack commerce workflow with secure authentication and real-time inventory handling. | Angular, Firebase | https://github.com/JoelJohny/Main-Project-Blacksmith- |
+- 💼 Building scalable solutions as a Full Stack Developer at **Brightaira** (Riyadh) and delivering freelance Angular & AI modules for **Luxsh Solutions** (London).
+- 🔭 Currently building **TripTrack**, an offline-first travel expense tracker using React Native and Expo.
+- 🛠️ Developing the Node.js backend for **DisasterAid** to enable low-latency, real-time crisis coordination.
+- 🎓 Expanding my academic foundation by pursuing my MCA.
 
-## Experience Highlights
-- Full Stack Developer, Brightaira, Riyadh (Nov 2022 - Present)
-- Angular Developer (Freelance), Luxsh Solutions, London Remote (2024 - Present)
-- Delivered SSO, reporting, role-based access control, dashboard performance improvements, and mobile shipment tracking features.
-- Implemented AI-driven resume parsing and screening flow using OpenAI GPT APIs.
+### 💻 Core Tech Stack
 
-## Tech Stack
-- Frontend: Angular, TypeScript, RxJS, Angular Material, Tailwind CSS, Bootstrap
-- Backend: ASP.NET Core, .NET Framework 4.8, C#, EF Core, Web API, Node.js, Express.js
-- Mobile: React Native
-- Databases: SQL Server, MySQL, Firebase, MongoDB
-- Security and Compliance: OAuth2/OpenID, JWT, RBAC, ZATCA Phase 2
-- DevOps and Tooling: Git, CI/CD, IIS, Azure App Services, Docker, Postman, Fiddler
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
-## Repository Activity Snapshot
-- Public repositories analyzed: 15
-- Language trend: TypeScript (5), HTML (4), JavaScript (2), SCSS (1), CSS (1)
-- Recently active repositories: JoelJohny, Track, DisasterAid, CiviLink, Disaster-Management
+### 🏆 Experience Highlights
 
-## Education and Certifications
-- Pursuing MCA, IGNOU (Distance Learning)
-- BCA (2019-2022), Santhigiri College, Kerala, India
-- Oracle Cloud Infrastructure 2023 Certified Foundations Associate
-- NPTEL: DBMS, Cloud Computing, Joy of Computing using Python
+* **Compliance & Security:** Engineered **ZATCA Phase 2** e-invoicing integration for seamless tax compliance and implemented secure **SSO integration** for the TanfeethERP platform.
+* **Enterprise Reporting:** Developed complex **Telerik reports** and scalable full-stack features including RBAC and dashboard performance optimizations.
+* **AI Integration:** Implemented an AI-driven resume parsing and screening workflow utilizing OpenAI GPT APIs to automate recruitment pipelines.
+* **Mobile & Logistics:** Delivered mobile shipment tracking features to streamline logistics operations.
 
-## Working Style
-I maintain this profile using AI-assisted iteration and keep it aligned with current project work, production responsibilities, and repository activity.
+### 📦 Featured Projects
 
-## Last Updated
-March 27, 2026
+| Project | Description | Primary Stack |
+|---------|-------------|---------------|
+| [**DisasterAid**](https://github.com/JoelJohny/DisasterAid) | Real-time crisis coordination platform for low-latency aid communication and tracking. | Angular, Node.js, Socket.io |
+| **TripTrack** | Offline-first travel expense tracker with cross-platform mobile support. | React Native, Expo |
+| [**Blacksmith Portal**](https://github.com/JoelJohny/Main-Project-Blacksmith-) | Full-stack commerce workflow with secure authentication and real-time inventory handling. | Angular, Firebase |
+
+---
+<div align="center">
+  <i>Always open to discussing new opportunities, system architecture, or the latest in tech.</i>
+</div>
