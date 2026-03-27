@@ -48,7 +48,7 @@ I'm a Full Stack Developer specializing in building secure, high-utility enterpr
 | Project | Description | Primary Stack |
 |---------|-------------|---------------|
 | [**DisasterAid**](https://github.com/JoelJohny/DisasterAid) | Real-time crisis coordination platform for low-latency aid communication and tracking. | Angular, Node.js, Socket.io |
-| **TripTrack** | Offline-first travel expense tracker with cross-platform mobile support. | React Native, Expo |
+| [**TripTrack**](https://github.com/JoelJohny/Track) | Offline-first travel expense tracker with cross-platform mobile support. | React Native, Expo |
 | [**Blacksmith Portal**](https://github.com/JoelJohny/Main-Project-Blacksmith-) | Full-stack commerce workflow with secure authentication and real-time inventory handling. | Angular, Firebase |
 
 ---
