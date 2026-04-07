@@ -80,7 +80,7 @@ const joel = {
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | 🌍 [**DisasterAid**](https://github.com/JoelJohny/DisasterAid) | Real-time crisis coordination & aid tracking | Angular · Node.js · Socket.io |
-| ✈️ **TripTrack** | Offline-first travel expense tracker | React Native · Expo |
+| ✈️ [**TripTrack**](https://github.com/JoelJohny/Track) | Offline-first travel expense tracker | React Native · Expo |
 | 🤖 **AI Recruitment Module** | GPT-powered resume parsing & screening for HRMS | Angular · OpenAI API |
 
 </div>
